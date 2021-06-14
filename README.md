@@ -22,11 +22,7 @@ npm install
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-# Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Run
 
 In the project directory, you can run:
 
