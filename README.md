@@ -1,19 +1,24 @@
 ## To-do-List Project
 
-Web application that users can add and remove todo items in a list format.
+Web application that users can add and remove todo items in a list format.\
+
 ![image](https://user-images.githubusercontent.com/82709004/121840800-330eb880-cd07-11eb-81d6-a3d9d74038b6.png)
 
 # Getting Started
 
 Clone this repository on your local machine.
 
-`git clone https://github.com/PatteeraLee/To-do-List.git
-cd To-do-List`
+```
+git clone https://github.com/PatteeraLee/To-do-List.git
+cd To-do-List
+```
 
 Run the following commands into the project folder to install project dependencies.
 
-`npm init
-npm install`
+```
+npm init
+npm install
+```
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
